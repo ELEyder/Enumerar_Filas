@@ -1,0 +1,5 @@
+El mundo es ancho y ajeno.
+El hombre es responsable de su propio destino.
+Solo se que nada se.
+Aprendiendo a programar en Python con archivos de texto.
+Programacion Orientada a Objetos (POO)
